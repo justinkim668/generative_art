@@ -11,4 +11,4 @@
 6. Click the upload button ont he upper left hand corner of the Arduino IDE interface.
 
 # Visual Documentation
-Link: [a link](https://youtube.com/shorts/G0fuaXA7WN4?feature=share)
+Link: [a Generative Art](https://youtube.com/shorts/G0fuaXA7WN4?feature=share)
